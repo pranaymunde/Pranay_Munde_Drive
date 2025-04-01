@@ -1,3 +1,3 @@
 # Pranay_Munde_Drive
- Demo
-Author - Pranay Munde
+ This is my repository
+Author - Pranay Jagdish Munde
